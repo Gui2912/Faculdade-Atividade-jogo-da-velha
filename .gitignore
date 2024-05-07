@@ -1,0 +1,15 @@
+.idea/
+*.cmake/
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+CMakeFiles/
+cmake-build-debug/
+cmake-build-release/
+bin/
+build/
+*.dSYM/
+.cmake/
+CMakeLists.txt.user
